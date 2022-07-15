@@ -1,6 +1,5 @@
 alabaster==0.7.12
 appdirs==1.4.4
-astroid @ file:///C:/ci/astroid_1628063231892/work
 atomicwrites==1.4.0
 attrs @ file:///opt/conda/conda-bld/attrs_1642510447205/work
 autopep8 @ file:///opt/conda/conda-bld/autopep8_1639166893812/work
